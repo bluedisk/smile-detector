@@ -2,6 +2,8 @@
 it's a smile detector for fun, powered by AWS Rekognition. 
 
 > 재미삼아 만들어본 웃음 검출기입니다. AWS Rekognition 서비스를 사용 했습니다.
+![Dec-19-2020 20-22-34](https://user-images.githubusercontent.com/3307964/102688150-05edbb80-4238-11eb-805b-89a106e11421.gif)
+
 
 # Usage
 ## Set AWS keys
