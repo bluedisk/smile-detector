@@ -7,6 +7,10 @@ it's a smile detector for fun, powered by AWS Rekognition.
 
 
 # Usage
+## Font Information
+This applcation is using `DungGeunMo`. you can get that font from https://cactus.tistory.com/193
+> 이 프로그램에서 폰트로 `둥근모꼴`을 사용하고 있습니다. 다음 링크에서 다운로드 가능합니다. :point_up:
+
 ## Set AWS keys
 set the AWS_ACCESS_KEY & AWS_SECRET_KEY to environment variables or change the source code. in case of changing source, you can use your key chaning default value of `getenv` functions that is filled with `# enter the key here #` by default
 
