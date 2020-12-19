@@ -1,0 +1,6 @@
+opencv-python~=4.4.0.46
+awscli
+boto3~=1.16.40
+pyglet~=1.5.13
+pillow~=8.0.0
+numpy~=1.19.1
